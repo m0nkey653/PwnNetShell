@@ -1,6 +1,0 @@
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\bin\PwnNetShell.dll.config
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\bin\PwnNetShell.dll
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\bin\PwnNetShell.pdb
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\obj\Debug\PwnNetShell.csprojResolveAssemblyReference.cache
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\obj\Debug\PwnNetShell.dll
-C:\Users\sdabirsiaghi\Desktop\PwnNetShell\PwnNetShell\obj\Debug\PwnNetShell.pdb
