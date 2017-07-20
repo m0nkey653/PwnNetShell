@@ -2858,8 +2858,8 @@
         <asp:Panel id="upContainer" DefaultButton="btnUpload" runat="server">
             <a href="javascript:void();" onclick="javascript:toggleDisplay('upPanel')">show/hide upload</a>
             <div id="upPanel" style="display:none;">
-                <p>The upload will be pushed to the current directory with the same filename as the local system.
-                Unfortunately, this page will refresh. Perfrom a dir to confirm the upload was successful.</p>
+                <p>The upload will be pushed to the current directory with the same filename as the application user account.
+                Unfortunately, this page will refresh. Perform a dir to confirm the upload was successful.</p>
                 <asp:FileUpload runat="server" ID="fuUpload" />
                 <asp:Button runat="server" ID="btnUpload" OnClick="btnUpload_Click" OnClientClick="document.getElementById('form1').onsubmit=''" Text="Upload" />
             </div>
